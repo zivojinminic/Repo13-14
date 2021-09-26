@@ -1,0 +1,293 @@
+img {
+    width: 200px;
+}
+
+.img1 h1 {
+    margin-top: 66px;
+    text-align: left;
+    font-size: 43px;
+
+}
+
+.img1 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img1:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 125px;
+}
+
+.img2 h1 {
+    margin-top: 77px;
+    text-align: left;
+    font-size: 38px;
+
+}
+
+.img2 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img2:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 134px;
+}
+
+.img3 h1 {
+    margin-top: 75px;
+    text-align: left;
+    font-size: 43px;
+
+}
+
+.img3 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img3:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 134px;
+}
+
+.img4 h1 {
+    margin-top: 285px;
+    text-align: left;
+    font-size: 50px;
+
+}
+
+.img4 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img4:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 356px;
+}
+
+.img5 h1 {
+    margin-top: 81px;
+    text-align: left;
+    font-size: 30px;
+
+}
+
+.img5 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img5:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 134px;
+}
+
+.img6 h1 {
+    margin-top: 235px;
+    text-align: left;
+    font-size: 40px;
+
+}
+
+.img6 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img6:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 301px;
+}
+
+.img7 h1 {
+    margin-top: 72px;
+    text-align: left;
+    font-size: 40px;
+
+}
+
+.img7 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img7:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 134px;
+}
+
+.img8 h1 {
+    margin-top: 180px;
+    text-align: left;
+    font-size: 50px;
+
+}
+
+.img8 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img8:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 263px;
+}
+
+.img9 h1 {
+    margin-top: 230px;
+    text-align: left;
+    font-size: 45px;
+
+}
+
+.img9 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img9:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 301px;
+}
+
+.img10 h1 {
+    margin-top: 182px;
+    text-align: left;
+    font-size: 50px;
+
+}
+
+.img10 div {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+.img10:hover div {
+    background: black;
+    opacity: 0.5;
+    visibility: visible;
+    color: white;
+    width: 200px;
+    height: 264px;
+}
+
+.container {
+    position: absolute;
+    margin-left: 180px;
+}
+
+.first-section {
+    display: flex;
+}
+.second-section {
+    display: flex;
+}
+.third-section {
+    display: flex;
+}
+
+.img2 {
+    margin-left: 32px;
+}
+
+.img3 {
+    margin-left: 30px;
+}
+
+.img4 {
+    margin-left: 30px;
+}
+
+.img5 {
+    position: absolute;
+    top: 127px;
+}
+
+.img6 {
+    position: absolute;
+    top: 135px;
+    left: 232px;
+}
+
+.img7 {
+    position: absolute;
+    top: 135px;
+    left: 462px;
+}
+
+.img8 {
+    position: absolute;
+    top: 263px;
+}
+
+.img9 {
+    position: absolute;
+    left: 462px;
+    top: 271px;
+}
+
+.img10 {
+    position: absolute;
+    left: 692px;
+}
